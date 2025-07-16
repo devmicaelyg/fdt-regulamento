@@ -65,5 +65,11 @@ a {
 }
 
 .logo-campeonato {
-    width: 200px; height: auto;
+    width: 130px; height: auto;
+}
+
+#header-content {
+    display: flex;
+    justify-content: center;
+    flex-direction: column-reverse;
 }
